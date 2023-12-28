@@ -1,4 +1,4 @@
-#React Map
+# React Map
 
 This is a web application built with react + tailwindCSS with daisyUI
 
